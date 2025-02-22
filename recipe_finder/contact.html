@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Contact Form</title>
+    <link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.15.4/css/all.css">
+    <link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+    <link rel="stylesheet" href="contact.css">
+</head>
+<body>
+    <header>
+        <div class="container">
+            <h1 class="logo"><i class='bx bxs-bowl-hot'></i>SCRAPC00KS</h1>
+            <nav class="navbar">
+                <a href="#">Home</a>
+                <a href="#">About</a>
+                <a href="#">Services</a>
+                <a href="#">Contact</a>
+            </nav>
+        </div>
+    </header>
+    <div class="contact-container">
+        <div class="contact-form">
+            <div class="form-left">
+                <h1><strong><u><center>Contact Us</center></u></strong></h1>
+                <h4><center>We're open for any suggestion or just to have a chat.</center></h4>
+                <div class="contact-info">
+                    <li>
+                        <i class="fas fa-phone-alt"></i>
+                        <span>Phone:</span> <a href="tel:+ 91- ***">+ 91- *****</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-envelope"></i>
+                        <span>Email:</span> <a href="mailto:scrapcooks@web.com">scrapcooks@website.com</a>
+                    </li>
+                    <li>
+                        <i class="fas fa-globe"></i>
+                        <span>Website:</span> <a href="#">scrapcooks.com</a>
+                    </li>
+                </div>
+                <form action="/submit" method="post">
+                    <div class="form-group">
+                        <input type="text" name="name" placeholder="Name" required>
+                        <span>Please enter your name</span>
+                    </div>
+                    <div class="form-group">
+                        <input type="email" name="email" placeholder="Email" required>
+                        <span>Please enter a valid email address</span>
+                    </div>
+                    <div class="form-group">
+                        <input type="text" name="subject" placeholder="Subject" required>
+                        <span>Please enter your subject</span>
+                    </div>
+                    <div class="form-group">
+                        <textarea name="message" placeholder="Create a message here" required></textarea>
+                        <span>Please enter a message</span>
+                    </div>
+                    <button type="submit">Send Message</button>
+                </form>
+                <div class="social-links">
+                    <h3>Connect with our social media.</h3>
+                    <ul class="social-icons">
+                        <li><a href="#"><i class="fab fa-facebook"></i></a></li>
+                        <li><a href="#"><i class="fab fa-twitter"></i></a></li>
+                        <li><a href="#"><i class="fab fa-instagram"></i></a></li>
+                    </ul>
+                </div>
+            </div>
+            <div class="form-right">
+                <img src="https://media.istockphoto.com/id/1423092276/photo/business-lunch-in-cafe-tasty-food-on-table-pizza-with-greenery-mozzarella-cheese-bacon-fried.jpg?s=612x612&w=0&k=20&c=GWJKMUd3CsMEd3U9EydhNKZAMzK6LOYzvqJtNGqwmVY=" alt="Contact Image">
+            </div>
+        </div>
+    </div>
+    <footer class="footer">
+        <p>&copy; 2024 Your Company. All rights reserved.</p>
+    </footer>
+    <script src="contact.js"></script>
+</body>
+</html>

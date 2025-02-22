@@ -1,0 +1,113 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>SCRAPC00KS Login & Registration</title>
+</head>
+<link rel="stylesheet" href="login.css">
+<link href='https://unpkg.com/boxicons@2.1.4/css/boxicons.min.css' rel='stylesheet'>
+
+<>
+   <header class="header">
+    <nav class="navbar">
+        <a href="base.html">Home</a>
+        <a href="about.html">About</a>
+        <a href="base.html">Recipes</a>
+        <a href="contact.html">Contact</a>
+    </nav>
+    <form action="#" class="search-bar">
+        <input type="text" placeholder="search....">8
+        <button class="submit"><i class='bx bx-search'></i></button>
+    </form>
+   </header>
+
+   <div class="background"></div>
+   <div class="container">
+    <div class="content">
+        <h2 class="logo"><i class='bx bxs-bowl-hot'></i>SCRAPC00KS</h2>
+        <div class="text-sci">
+            <h2>Welcome! <br><span>to our zero waste recipe finder</span></h2>
+            <p>Everyone's a chef now, let's whip up something from scatch!!!!</p>
+
+            <div class="social-icons">
+                <a href="#"><i class='bx bxl-linkedin'></i></a>
+                <a href="#"><i class='bx bxl-facebook'></i></a>
+                <a href="#"><i class='bx bxl-instagram'></i></a>
+                <a href="#"><i class='bx bxl-twitter' ></i></a>
+            </div>
+        </div>
+    </div>
+
+    <div class="logreg-box">
+        <div class="form-box login">
+            <form class="loginform">
+                <h2>Sign In</h2>
+
+                <div class="input-box">
+                    <span class="icon"><i class='bx bxs-envelope'></i></span>
+                    <input type="email" required>
+                    <label >Email</label>
+                </div>
+
+                <div class="input-box">
+                    <span class="icon"><i class='bx bxs-lock-alt'></i></span>
+                    <input type="password" required>
+                    <label >Password</label>
+                </div>
+
+                <div class="remember-forgot">
+                    <label ><input type="checkbox">Remember me</label>
+                    <a href="#">Forgot password?</a>
+                </div>
+
+                <button type="submit" class="btn">Sign In</button>
+                <div id="error2" style="color:red; margin-top: 10px;"></div>
+
+                <div class="login-register">
+                    <p>Don't have any account?<a href="#" class="register-link">Sign up</a></p>
+                </div>
+            </form>
+        </div>
+
+        <div class="form-box register">
+            <form class ="signupform">
+                <h2>Sign Up</h2>
+
+                <div class="input-box">
+                    <span class="icon"><i class='bx bxs-user'></i></span>
+                    <input type="text" required>
+                    <label >Name</label>
+                </div>
+                <div class="input-box">
+                    <span class="icon"><i class='bx bxs-envelope'></i></span>
+                    <input type="email" required>
+                    <label >Email</label>
+                </div>
+
+                <div class="input-box">
+                    <span class="icon"><i class='bx bxs-lock-alt'></i></span>
+                    <input type="password" required>
+                    <label >Password</label>
+                </div>
+
+                <div class="remember-forgot">
+                    <label ><input type="checkbox">I agree to the terms & conditions</label>
+                    
+                </div>
+
+                <button type="submit" class="btn">Sign Up</button>
+                <div id="error1" style="color:red; margin-top: 10px;"></div>
+
+                <div class="login-register">
+                    <p>Already have any account?<a href="#" class="login-link">Sign in</a></p>
+                </div>
+            </form>
+        </div>
+
+    </div>
+   </div>
+
+<script src = "login.js"></script> 
+</body>
+</html>

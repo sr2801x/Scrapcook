@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Independent Scroll Sections with Navbar</title>
+    <link rel="stylesheet" href="base.css">
+   
+</head>
+<body>
+
+    <!-- Navigation Bar -->
+    <nav class="navbar">
+        <div class="logo">
+            <span class="logo-icon">🍳</span> <!-- Example icon -->
+            <span class="logo-text">SCRAPC00KS</span>
+        </div>
+        <ul class="nav-links">
+            <li><a href="login.html">Sign In/Up</a></li>
+            <li><a href="about.html">About</a></li>
+            <li><a href="#">Recipes</a></li>
+            <li><a href="contact.html">Contact</a></li>
+        </ul>
+    </nav>
+
+    <div class="container">
+        <!-- Left Section - 20% Width -->
+        <div class="section" id="leftSection">
+            <h2 class="pantry-heading">Pantry</h2>
+            <h5>select Ingredient of Your Choice</h5>
+                <div class="hero-section">
+                   <form action="#refer" class="search-box">
+                    <input type="text" placeholder="search Ingredient">
+                    <button type="submit">Search</button>
+                   </form>
+                </div>
+                <!-- Pantry Section (Left Side) -->
+        <section id="pantry">
+            
+            <div id="ingredient-list"></div>
+        </section>
+        </div>
+
+        <!-- Right Section - 0% Width -->
+        <div class="section" id="rightSection">
+            <!--hero section-->
+            <section class="hero">
+                <div class="hero-section">
+                   <h2>welcome to a zero waste recipe finder</h2>
+                   <p>Search mouth watering recipes to satisfy your craving.</p>
+        
+        
+                   <form action="#refer" class="search-box">
+                    <input type="text" placeholder="search Recipe">
+                    <button type="submit">Search</button>
+                   </form>
+                </div>
+            </section>
+             <!-- Recipes Section (Right Side) -->
+        <section id="recipe-list">
+            <h2>Recipes</h2>
+            
+            
+        </section>
+           
+        </div>
+
+
+        <!-- Popup Modal -->
+<div id="recipe-popup" class="popup-overlay" style="display: none;">
+    <div class="popup-content">
+        <span class="close-popup">&times;</span>
+        <h3 id="popup-recipe-name"></h3>
+        <img id="popup-recipe-image" alt="">
+        <p><strong>Ingredients:</strong></p>
+        <ul id="popup-recipe-ingredients"></ul>
+        <p><strong>Detailed Recipe:</strong></p>
+        <p id="popup-recipe-details"></p>
+    </div>
+</div>
+
+    </div>
+    <script src="base.js" ></script>
+</body>
+</html> 

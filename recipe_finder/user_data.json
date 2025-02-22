@@ -1,0 +1,433 @@
+{
+  "recipes": [
+    {
+      "name": "Avocado Toast",
+      "ingredients": [
+        "bread",
+        "avocado",
+        "salt"
+      ],
+      "likes": 234,
+      "details": [
+        "*Toast the bread: Preheat your toaster or toaster oven to 375°F (190°C). Slice the bread into 1-inch thick slices and toast until lightly browned (about 5-7 minutes).",
+        "*Mash the avocado: Cut the avocado in half and remove the pit. In a bowl, mash the avocado with a fork until mostly smooth.",
+        "*Add lemon juice and seasonings: Add lemon juice, salt, black pepper, and red pepper flakes (if using) to the mashed avocado. ",
+        "*Mix well.Add garlic (optional): If using garlic, mince and add it to the avocado mixture.",
+        "*Assemble the toast: Spread the mashed avocado mixture evenly onto the toasted bread slices.",
+        "*Drizzle with olive oil: Drizzle olive oil over the avocado.",
+        "*Garnish with herbs: Sprinkle chopped fresh herbs over the avocado.",
+        "*Add optional toppings: Choose your desired toppings and place them on top of the avocado.Serve and enjoy: Serve immediately and enjoy!"
+      ],
+      "diet": "vegan",
+      "image": "images/avocado.jpg",
+      "id": "531e"
+    },
+    {
+      "name": "Vegetable Stir Fry",
+      "ingredients": [
+        "broccoli",
+        "carrot",
+        "soy sauce"
+      ],
+      "likes": 134,
+      "details": "To make Vegetable Stir Fry for 4-6 servings, start by preparing 2 cups broccoli florets, 1 cup sliced bell peppers, 1 cup sliced carrots, 1 cup sliced mushrooms, 1 cup sliced snow peas, 1 cup diced zucchini, 1/2 cup diced yellow onion, 2 cloves minced garlic, and 1 tablespoon grated fresh ginger. Heat 1 tablespoon vegetable oil in a large skillet or wok over medium-high heat and cook broccoli, bell peppers, and carrots for 5 minutes, then add mushrooms, snow peas, zucchini, onion, garlic, and ginger and cook for 5-7 minutes. Meanwhile, whisk together 2 tablespoons soy sauce, 1 tablespoon oyster sauce (optional), 1 tablespoon honey, 1 teaspoon sesame oil, and 1 teaspoon cornstarch. Pour the sauce into the skillet, stir to coat vegetables evenly, and cook for 1-2 minutes. Season with salt and pepper to taste, then garnish with sesame seeds, chopped green onions, and fresh cilantro leaves. Serve immediately over rice, noodles, or enjoy as a standalone dish.",
+      "diet": "vegetarian",
+      "image": "images/veg.jpg",
+      "id": "6e8d"
+    },
+    {
+      "name": "Gluten-Free Pancakes",
+      "ingredients": [
+        "gluten-free flour",
+        "milk",
+        "egg"
+      ],
+      "likes": 309,
+      "details": "To make Gluten-Free Pancakes, whisk together 1 1/2 cups gluten-free all-purpose flour, 1/2 cup granulated sugar, 2 teaspoons baking powder, and 1/4 teaspoon salt. In a separate bowl, combine 1 cup milk, 1 large egg, and 2 tablespoons melted unsalted butter or oil. Add 1 teaspoon vanilla extract to the wet ingredients and stir. Pour the wet ingredients into the dry ingredients and stir until just combined; do not overmix. Fold in any optional add-ins (blueberries, chocolate chips, or nuts). Heat a non-stick skillet or griddle over medium heat and grease with butter or oil. Drop batter by 1/4 cupfuls onto the skillet or griddle and cook for 2-3 minutes or until bubbles appear on the surface and edges start to dry. Flip and cook for an additional 1-2 minutes or until golden brown. Serve warm with your favorite toppings, such as maple syrup, butter, or fresh fruit.",
+      "diet": "gluten-free",
+      "image": "images/gluton.jpg",
+      "id": "0dcf"
+    },
+    {
+      "name": "Spaghetti Carbonara",
+      "ingredients": [
+        "spaghetti",
+        "egg",
+        "parmesan",
+        "bacon"
+      ],
+      "likes": 671,
+      "details": "To make Spaghetti Carbonara, cook 12 oz spaghetti in boiling salted water until al dente, reserving 1 cup pasta water before draining. In a large skillet, cook 6 slices bacon or pancetta over medium heat until crispy, then remove from heat and set aside. In a medium bowl, whisk 3 large eggs, 1/2 cup grated Parmesan cheese, and a pinch salt and pepper. Add reserved pasta water to egg mixture and stir. Add cooked spaghetti to egg mixture and toss to coat. Add cooked bacon or pancetta and toss until well combined. Season with salt and black pepper to taste. Serve immediately, garnished with additional Parmesan cheese and chopped fresh parsley if desired. Traditionally, no cream is used in authentic Carbonara.",
+      "diet": "non-vegetarian",
+      "image": "images/sphagetti.jpg",
+      "id": "ef59"
+    },
+    {
+      "name": "Caprese Salad",
+      "ingredients": [
+        "tomato",
+        "mozzarella",
+        "basil",
+        "olive oil"
+      ],
+      "likes": 562,
+      "details": "To make a Caprese Salad, slice 3 large, ripe tomatoes into 1/4-inch thick rounds. Arrange tomato slices on a large plate or platter. Top each tomato slice with a slice of 8 oz fresh mozzarella cheese, sliced into 1/4-inch thick rounds. Sprinkle chopped fresh basil leaves over the mozzarella. Drizzle 3-4 tablespoons extra-virgin olive oil over the salad and season with salt and pepper to taste. Optional: drizzle 1-2 tablespoons balsamic glaze or reduced balsamic vinegar for added flavor. Serve immediately, garnished with additional basil leaves if desired.",
+      "diet": "vegetarian",
+      "image": "images/cap.jpg",
+      "id": "1773"
+    },
+    {
+      "name": "Chicken Curry",
+      "ingredients": [
+        "chicken",
+        "coconut milk",
+        "curry powder",
+        "garlic"
+      ],
+      "likes": 188,
+      "details": "To make Chicken Curry, heat 2 tablespoons vegetable oil in a large pan over medium heat. Add 1 onion, diced, and cook until softened (3-4 minutes). Add 2 cloves minced garlic and 1 tablespoon grated fresh ginger; cook 1 minute. Add 1 pound boneless, skinless chicken breast or thighs, cut into bite-sized pieces, and cook until browned (5-6 minutes). Add 1 tablespoon curry powder, 1 teaspoon ground cumin, 1/2 teaspoon turmeric, and 1/2 teaspoon cayenne pepper (optional); cook 1 minute. Stir in 1 can (14 oz) diced tomatoes and 1 cup chicken broth. Bring to a simmer, reduce heat to low, and cook until chicken is cooked through (15-20 minutes). Season with salt and pepper to taste. Garnish with chopped fresh cilantro and serve over rice or with naan bread.",
+      "diet": "non-vegetarian",
+      "image": "images/chic.jpg",
+      "id": "5886"
+    },
+    {
+      "name": "Quinoa Salad",
+      "ingredients": [
+        "quinoa",
+        "cucumber",
+        "feta",
+        "olive oil"
+      ],
+      "likes": 122,
+      "details": "To make Quinoa Salad, cook 1 cup quinoa according to package instructions. In a large bowl, combine cooked quinoa, 1 cup chopped mixed greens, 1 cup cherry tomatoes (halved), 1 cup cucumber (sliced), 1/2 cup crumbled feta cheese (optional), and 1/4 cup chopped fresh parsley. In a small bowl, whisk 2 tablespoons olive oil, 1 tablespoon lemon juice, 1 teaspoon Dijon mustard, salt, and pepper. Pour dressing over quinoa mixture and toss. Top with chopped fresh herbs or edible flowers, if desired.",
+      "diet": "vegetarian",
+      "image": "images/quino.jpg",
+      "id": "89fc"
+    },
+    {
+      "name": "Chicken Tacos",
+      "ingredients": [
+        "Chicken",
+        "taco shells",
+        "cheese",
+        "lettuce"
+      ],
+      "likes": 1,
+      "details": "To make Chicken Tacos, cook 1 pound boneless, skinless chicken breast in a skillet with 1 tablespoon olive oil over medium-high heat until browned and cooked through (5-6 minutes). Shred or chop chicken into small pieces. Add 1/2 teaspoon cumin, 1/2 teaspoon chili powder, 1/4 teaspoon paprika, salt, and pepper to chicken and stir. Warm 8-10 corn tortillas by wrapping in a damp paper towel and microwaving 20-30 seconds. Assemble tacos by spooning chicken onto tortillas, then topping with diced tomatoes, shredded lettuce, diced avocado, sour cream, salsa, cilantro, and shredded cheese (optional).",
+      "diet": "non-vegetarian",
+      "image": "images/taco.jpg",
+      "id": "0e7a"
+    },
+    {
+      "name": "Mushroom Risotto",
+      "ingredients": [
+        "rice",
+        "mushroom",
+        "parmesan",
+        "garlic"
+      ],
+      "likes": 567,
+      "details": "To make Mushroom Risotto, heat 2 tablespoons olive oil in a large skillet over medium heat. Add 1 small onion, finely chopped, and cook until translucent (3-4 minutes). Add 2 cups mixed mushrooms (button, cremini, shiitake), sliced, and cook until tender (5 minutes). Add 2 cloves garlic, minced, and cook 1 minute. Add 1 cup Arborio rice and cook, stirring constantly, for 1-2 minutes. Add 1/2 cup white wine and cook until absorbed. Add 4 cups vegetable or chicken broth, 1/2 cup at a time, stirring constantly and allowing each portion to absorb before adding the next. Cook until rice is tender and creamy (20-25 minutes). Remove from heat, stir in 2 tablespoons butter, 1/2 cup grated Parmesan cheese, and season with salt and pepper. Serve immediately, garnished with chopped fresh parsley or thyme.",
+      "diet": "vegetarian",
+      "image": "images/mush.jpg",
+      "id": "e2dd"
+    },
+    {
+      "name": "Vegan Smoothie",
+      "ingredients": [
+        "banana",
+        "spinach",
+        "almond milk",
+        "chia seeds"
+      ],
+      "likes": 382,
+      "details": "To make a Vegan Smoothie, blend 1 1/2 cups frozen mixed berries, 1/2 sliced banana, 1/2 cup unsweetened almond milk or non-dairy milk, 1 tablespoon chia seeds, 1 teaspoon hemp seeds, and 1/2 teaspoon vanilla extract. Add 1/2 teaspoon honey or maple syrup for sweetness if desired. Throw in ice cubes if you prefer a thicker consistency. Blend until smooth and creamy, then serve immediately. You can customize with optional add-ins like frozen pineapple, mango, peanut butter, spinach, or protein powder to suit your taste preferences.",
+      "diet": "vegan",
+      "image": "images/smoo.png",
+      "id": "946f"
+    },
+    {
+      "name": "Shakshuka",
+      "ingredients": [
+        "egg",
+        "tomato",
+        "onion",
+        "bell pepper",
+        "cumin"
+      ],
+      "likes": 456,
+      "details": "To make Shakshuka, heat 2 tablespoons olive oil in a large cast-iron skillet over medium heat. Add 1 sliced onion and cook until softened (5 minutes). Add 2 cloves minced garlic and cook 1 minute. Add 1 sliced red bell pepper and cook until tender (5 minutes). Add 1 can (28 oz) crushed tomatoes, 1 teaspoon smoked paprika, 1 teaspoon ground cumin, salt, and pepper. Stir and bring to a simmer. Create 2-4 wells in the sauce and crack in eggs. Cover and cook until whites are set and yolks are cooked to desired doneness (10-15 minutes). Garnish with chopped fresh parsley, basil, or cilantro. Serve with crusty bread or pita for dipping.",
+      "diet": "vegetarian",
+      "image": "images/sak.jpg",
+      "id": "d99e"
+    },
+    {
+      "name": "Grilled Salmon",
+      "ingredients": [
+        "salmon",
+        "lemon",
+        "olive oil",
+        "garlic"
+      ],
+      "likes": 456,
+      "details": "To make Grilled Salmon, preheat grill to medium-high heat. Season 4 salmon fillets (6 oz each) with salt, pepper, and 2 tablespoons olive oil. Place salmon on grill, skin side down (if applicable), and close grill lid. Cook for 4-5 minutes or until skin is crispy, then flip and cook for an additional 3-4 minutes or until cooked through to desired doneness. Remove from heat and serve immediately. Optional: brush with lemon juice, garlic butter, or herb-infused oil before grilling, or top with sliced lemons, herbs, or capers during last minute of cooking. Cook to internal temperature of 145°F, adjusting time as needed for thickness of fillets.",
+      "diet": "pescatarian",
+      "image": "images/salman.jpg",
+      "id": "d971"
+    }
+  ],
+  "ingredients": [
+    {
+      "id": "1",
+      "name": "bread"
+    },
+    {
+      "id": "2",
+      "name": "avocado"
+    },
+    {
+      "id": "3",
+      "name": "salt"
+    },
+    {
+      "id": "4",
+      "name": "broccoli"
+    },
+    {
+      "id": "5",
+      "name": "carrot"
+    },
+    {
+      "id": "6",
+      "name": "soy sauce"
+    },
+    {
+      "id": "7",
+      "name": "gluten-free flour"
+    },
+    {
+      "id": "8",
+      "name": "milk"
+    },
+    {
+      "id": "9",
+      "name": "egg"
+    },
+    {
+      "id": "10",
+      "name": "spaghetti"
+    },
+    {
+      "id": "11",
+      "name": "parmesan"
+    },
+    {
+      "id": "12",
+      "name": "bacon"
+    },
+    {
+      "id": "13",
+      "name": "tomato"
+    },
+    {
+      "id": "14",
+      "name": "mozzarella"
+    },
+    {
+      "id": "15",
+      "name": "basil"
+    },
+    {
+      "id": "16",
+      "name": "olive oil"
+    },
+    {
+      "id": "17",
+      "name": "chicken"
+    },
+    {
+      "id": "18",
+      "name": "coconut milk"
+    },
+    {
+      "id": "19",
+      "name": "curry powder"
+    },
+    {
+      "id": "20",
+      "name": "garlic"
+    },
+    {
+      "id": "21",
+      "name": "quinoa"
+    },
+    {
+      "id": "22",
+      "name": "cucumber"
+    },
+    {
+      "id": "23",
+      "name": "feta"
+    },
+    {
+      "id": "24",
+      "name": "beef"
+    },
+    {
+      "id": "25",
+      "name": "taco shells"
+    },
+    {
+      "id": "26",
+      "name": "cheese"
+    },
+    {
+      "id": "27",
+      "name": "lettuce"
+    },
+    {
+      "id": "28",
+      "name": "rice"
+    },
+    {
+      "id": "29",
+      "name": "mushroom"
+    },
+    {
+      "id": "30",
+      "name": "banana"
+    },
+    {
+      "id": "31",
+      "name": "spinach"
+    },
+    {
+      "id": "32",
+      "name": "almond milk"
+    },
+    {
+      "id": "33",
+      "name": "chia seeds"
+    },
+    {
+      "id": "34",
+      "name": "onion"
+    },
+    {
+      "id": "35",
+      "name": "bell pepper"
+    },
+    {
+      "id": "36",
+      "name": "cumin"
+    },
+    {
+      "id": "37",
+      "name": "salmon"
+    },
+    {
+      "id": "38",
+      "name": "lemon"
+    }
+  ],
+  "users": [
+    {
+      "id": "cbed",
+      "email": "priyanshu@gmail.com",
+      "password": "Priyanshu@17"
+    },
+    {
+      "id": "850e",
+      "email": "shivika@gmail.com",
+      "password": "Shivika@123"
+    },
+    {
+      "id": "715b",
+      "email": "123@gmail.com",
+      "password": "Priyanshu@123"
+    },
+    {
+      "id": "8fbb",
+      "email": "12345@gmail.com",
+      "password": "Sneha@123"
+    },
+    {
+      "id": "6603",
+      "email": "samiksha@gmail.com",
+      "password": "TSL@c1"
+    },
+    {
+      "id": "7acd",
+      "email": "123@gmail.com",
+      "password": "TSLc@1"
+    },
+    {
+      "id": "82df",
+      "email": "rathoer@gmail.com",
+      "password": "TSLc1@"
+    },
+    {
+      "id": "2c55",
+      "email": "diya@gmail.com",
+      "password": "QWEa2!"
+    },
+    {
+      "id": "a963",
+      "email": "dd@gmail.com",
+      "password": "QWERTYq1@"
+    },
+    {
+      "id": "c960",
+      "email": "sadf@gmail.com",
+      "password": "QWEr1@"
+    },
+    {
+      "id": "04ae",
+      "email": "yashika@gmail.com",
+      "password": "TSLc@1"
+    },
+    {
+      "id": "ce2a",
+      "email": "palak@gmail.com",
+      "password": "TSLc2@"
+    },
+    {
+      "id": "4e28",
+      "email": "diya@gmail.com",
+      "password": "Diya@123"
+    },
+    {
+      "id": "10c3",
+      "email": "diya@gmail.com",
+      "password": "Diya@123"
+    },
+    {
+      "id": "1d85",
+      "email": "tanu@gmail.com",
+      "password": "Tanu@123"
+    }
+  ],
+  "feedback": [
+    {
+      "id": "ba85",
+      "name": "Priyanshu",
+      "email": "priyanshu@gmail.com",
+      "subject": "COOKING",
+      "message": "GOOD WORK"
+    },
+    {
+      "id": "1a4d",
+      "name": "shivika",
+      "email": "shiv@gmail.com",
+      "subject": "nice website",
+      "message": "you good keep going"
+    },
+    {
+      "id": "39e1",
+      "name": "sneha",
+      "email": "sneha@gmail.com",
+      "subject": "scrapcook",
+      "message": "hoo"
+    }
+  ]
+}
